@@ -1,1 +1,12 @@
-ECHO is on.
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+background: linear-gradient(90deg, rgb(145, 39, 239), rgb(144, 19, 254));
+font-size: 2em;
+font-weight: 500;
+color: white;
+}
